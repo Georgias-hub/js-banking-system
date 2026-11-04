@@ -19,7 +19,5 @@ thirdBank.withdraw(10);
 secondBank.checkBalance();
 thirdBank.checkBalance();
 
-console.log(secondBank.withdraw(1000));
 
-console.log(thirdBank.withdraw(2000));
-console.log("Hello")
+
