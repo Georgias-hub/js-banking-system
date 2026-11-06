@@ -1,4 +1,4 @@
-import BankAccount from "./bankAccount.mjs";
+import BankAccount from "./bankAccount.js";
 
 //Create instances of BankAccount
 const secondBank = new BankAccount (75694284, "John Doe");
